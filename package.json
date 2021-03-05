@@ -1,0 +1,19 @@
+{
+  "name": "repositorio",
+  "version": "1.0.0",
+  "description": "mi repositoio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhosselinzenaidamartinez/examen.git"
+  },
+  "author": "jhosse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhosselinzenaidamartinez/examen/issues"
+  },
+  "homepage": "https://github.com/jhosselinzenaidamartinez/examen#readme"
+}
